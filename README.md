@@ -8,3 +8,6 @@ the players are controlled using the Up,Down,Left,Right buttons of the keyboard 
 to give some spice to the game, I decided that the opposition players would be the lovely character "Towlie" from the famous or infamous cartoon SouthPark whereas the team players are the iconic character "Eric Cartman". 
 
 Hope you enjoy the game and idea :)
+
+
+![Fusball1](https://github.com/GhanayemMuh/Fusball-Game-on-FPGA/assets/125828484/073a5899-6e5e-48b4-a69d-897ef6c9c67a width="50%" height="50%")
