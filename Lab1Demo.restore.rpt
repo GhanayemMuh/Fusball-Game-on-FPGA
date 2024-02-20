@@ -1,0 +1,217 @@
+Restore Archived Project report for Lab1Demo
+Tue Feb 20 15:57:14 2024
+Quartus Prime Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2017  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Intel and sold by Intel or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Tue Feb 20 15:57:14 2024 ;
+; Revision Name                   ; Lab1Demo                              ;
+; Top-level Entity Name           ; TOP_VGA_DEMO_KBD                      ;
+; Family                          ; Cyclone V                             ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/Users/Ahmad/Downloads/Fusball.qar' into the 'C:/Users/Ahmad/Downloads/Fusball_restored/' directory
+Info: Generated report 'Lab1Demo.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/17.0/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4821 megabytes
+    Info: Processing ended: Tue Feb 20 15:57:14 2024
+    Info: Elapsed time: 00:00:02
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++---------------------------------------------------------------------------------+
+; Files Restored                                                                  ;
++---------------------------------------------------------------------------------+
+; File Name                                                                       ;
++---------------------------------------------------------------------------------+
+; qar_info.json                                                                   ;
+; KBDLab_restored/rtl/bitrec.sv                                                   ;
+; KBDLab_restored/rtl/byterec.sv                                                  ;
+; KBDLab_restored/rtl/lpf.sv                                                      ;
+; KBDLab_restored/rtl/singleKeyDecoder.sv                                         ;
+; project2_412/VGA/RTL/VGA/TOP_VGA_DEMO_KBD.bdf                                   ;
+; project2_412/VGA/RTL/VGA/game_controller.sv                                     ;
+; project2_412/VGA/RTL/VGA/objects_mux.sv                                         ;
+; project2_412/VGA/RTL/VGA/smileyBitMap.sv                                        ;
+; project2_412/VGA/RTL/VGA/square_object.sv                                       ;
+; project2_412/VGA_8_12_2022/BallBitMap.sv                                        ;
+; project2_412/VGA_8_12_2022/CLK_31P5.cmp                                         ;
+; project2_412/VGA_8_12_2022/CLK_31P5.qip                                         ;
+; project2_412/VGA_8_12_2022/CLK_31P5.sip                                         ;
+; project2_412/VGA_8_12_2022/CLK_31P5.spd                                         ;
+; project2_412/VGA_8_12_2022/CLK_31P5.v                                           ;
+; project2_412/VGA_8_12_2022/CLK_31P5/CLK_31P5_0002.qip                           ;
+; project2_412/VGA_8_12_2022/CLK_31P5/CLK_31P5_0002.v                             ;
+; project2_412/VGA_8_12_2022/CLK_31P5_sim/CLK_31P5.vo                             ;
+; project2_412/VGA_8_12_2022/DE10_Standard_Audio.sdc                              ;
+; project2_412/VGA_8_12_2022/GoalsMove.sv                                         ;
+; project2_412/VGA_8_12_2022/KBD.bdf                                              ;
+; project2_412/VGA_8_12_2022/L_corner.sv                                          ;
+; project2_412/VGA_8_12_2022/Lab1Demo.qpf                                         ;
+; project2_412/VGA_8_12_2022/Lab1Demo.qsf                                         ;
+; project2_412/VGA_8_12_2022/Lab1Demo_assignment_defaults.qdf                     ;
+; project2_412/VGA_8_12_2022/LevelX.bsf                                           ;
+; project2_412/VGA_8_12_2022/LevelX.qip                                           ;
+; project2_412/VGA_8_12_2022/LevelX.v                                             ;
+; project2_412/VGA_8_12_2022/LevelX_bb.v                                          ;
+; project2_412/VGA_8_12_2022/LevelX_syn.v                                         ;
+; project2_412/VGA_8_12_2022/Number_position.bsf                                  ;
+; project2_412/VGA_8_12_2022/Number_position.qip                                  ;
+; project2_412/VGA_8_12_2022/Number_position.v                                    ;
+; project2_412/VGA_8_12_2022/Number_position_bb.v                                 ;
+; project2_412/VGA_8_12_2022/OppTeam.bdf                                          ;
+; project2_412/VGA_8_12_2022/RTL/AUDIO/AUDIO.bdf                                  ;
+; project2_412/VGA_8_12_2022/RTL/AUDIO/SinTable.sv                                ;
+; project2_412/VGA_8_12_2022/RTL/AUDIO/TOP_AUDIO.bdf                              ;
+; project2_412/VGA_8_12_2022/RTL/AUDIO/ToneDecoder.sv                             ;
+; project2_412/VGA_8_12_2022/RTL/AUDIO/addr_counter.sv                            ;
+; project2_412/VGA_8_12_2022/RTL/AUDIO/prescaler.sv                               ;
+; project2_412/VGA_8_12_2022/RTL/KEYBOARD/HexSS.sv                                ;
+; project2_412/VGA_8_12_2022/RTL/KEYBOARD/KEYBOARD_INTERFACE.qxp                  ;
+; project2_412/VGA_8_12_2022/RTL/KEYBOARD/random.sv                               ;
+; project2_412/VGA_8_12_2022/RTL/KEYBOARD/simple_up_counter.sv                    ;
+; project2_412/VGA_8_12_2022/RTL/Seg7/SEG7.SV                                     ;
+; project2_412/VGA_8_12_2022/RTL/VGA/Ball_Block.bdf                               ;
+; project2_412/VGA_8_12_2022/RTL/VGA/HART_DISPLAY.bdf                             ;
+; project2_412/VGA_8_12_2022/RTL/VGA/NumbersBitMap.sv                             ;
+; project2_412/VGA_8_12_2022/RTL/VGA/TEAM_DISPLAY.bdf                             ;
+; project2_412/VGA_8_12_2022/RTL/VGA/TeamMatrixBitMap.sv                          ;
+; project2_412/VGA_8_12_2022/RTL/VGA/VGA_Controller.sv                            ;
+; project2_412/VGA_8_12_2022/RTL/VGA/back_ground_draw.sv                          ;
+; project2_412/VGA_8_12_2022/RTL/VGA/ballMovement.sv                              ;
+; project2_412/VGA_8_12_2022/RTL/VGA/square_Hart_object.sv                        ;
+; project2_412/VGA_8_12_2022/RTL/VGA/valX.bsf                                     ;
+; project2_412/VGA_8_12_2022/RTL/VGA/valX.qip                                     ;
+; project2_412/VGA_8_12_2022/RTL/VGA/valX.v                                       ;
+; project2_412/VGA_8_12_2022/RTL/VGA/valX_bb.v                                    ;
+; project2_412/VGA_8_12_2022/RTL/VGA/valX_inst.v                                  ;
+; project2_412/VGA_8_12_2022/RTL/audio_codec_controller/DeBounce.sv               ;
+; project2_412/VGA_8_12_2022/RTL/audio_codec_controller/adc2parallel.sv           ;
+; project2_412/VGA_8_12_2022/RTL/audio_codec_controller/adc_synch_fifo.qip        ;
+; project2_412/VGA_8_12_2022/RTL/audio_codec_controller/adc_synch_fifo.v          ;
+; project2_412/VGA_8_12_2022/RTL/audio_codec_controller/adc_synch_fifo_bb.v       ;
+; project2_412/VGA_8_12_2022/RTL/audio_codec_controller/adc_synch_fifo_inst.v     ;
+; project2_412/VGA_8_12_2022/RTL/audio_codec_controller/audio_codec_controller.sv ;
+; project2_412/VGA_8_12_2022/RTL/audio_codec_controller/clock_500.sv              ;
+; project2_412/VGA_8_12_2022/RTL/audio_codec_controller/dac2serial.sv             ;
+; project2_412/VGA_8_12_2022/RTL/audio_codec_controller/dac_synchronizer.bsf      ;
+; project2_412/VGA_8_12_2022/RTL/audio_codec_controller/dac_synchronizer.qip      ;
+; project2_412/VGA_8_12_2022/RTL/audio_codec_controller/dac_synchronizer.v        ;
+; project2_412/VGA_8_12_2022/RTL/audio_codec_controller/i2c.sv                    ;
+; project2_412/VGA_8_12_2022/RTL/audio_codec_controller/synch_fifo.qip            ;
+; project2_412/VGA_8_12_2022/RTL/audio_codec_controller/synch_fifo.sv             ;
+; project2_412/VGA_8_12_2022/RTL/numberPosition.bsf                               ;
+; project2_412/VGA_8_12_2022/RTL/numberPosition.qip                               ;
+; project2_412/VGA_8_12_2022/RTL/numberPosition.v                                 ;
+; project2_412/VGA_8_12_2022/RTL/numberPosition_bb.v                              ;
+; project2_412/VGA_8_12_2022/R_corner.sv                                          ;
+; project2_412/VGA_8_12_2022/TeamPolesMain.sv                                     ;
+; project2_412/VGA_8_12_2022/TeamPoles_bottom.sv                                  ;
+; project2_412/VGA_8_12_2022/TeamPoles_top.sv                                     ;
+; project2_412/VGA_8_12_2022/YOUWON.sv                                            ;
+; project2_412/VGA_8_12_2022/YouLose.sv                                           ;
+; project2_412/VGA_8_12_2022/assignment_defaults.qdf                              ;
+; project2_412/VGA_8_12_2022/bluePlayerBitMap.sv                                  ;
+; project2_412/VGA_8_12_2022/clock_divider_31p5.cmp                               ;
+; project2_412/VGA_8_12_2022/clock_divider_31p5.qip                               ;
+; project2_412/VGA_8_12_2022/clock_divider_31p5.sip                               ;
+; project2_412/VGA_8_12_2022/clock_divider_31p5.spd                               ;
+; project2_412/VGA_8_12_2022/clock_divider_31p5.v                                 ;
+; project2_412/VGA_8_12_2022/clock_divider_31p5/clock_divider_31p5_0002.qip       ;
+; project2_412/VGA_8_12_2022/clock_divider_31p5/clock_divider_31p5_0002.v         ;
+; project2_412/VGA_8_12_2022/clock_divider_31p5_sim/clock_divider_31p5.vo         ;
+; project2_412/VGA_8_12_2022/constraints/DE10_Standard_Audio.sdc                  ;
+; project2_412/VGA_8_12_2022/constraints/pin.tcl                                  ;
+; project2_412/VGA_8_12_2022/corner_R.sv                                          ;
+; project2_412/VGA_8_12_2022/db/stp2_auto_stripped.stp                            ;
+; project2_412/VGA_8_12_2022/game_timer.sv                                        ;
+; project2_412/VGA_8_12_2022/goalCheck.sv                                         ;
+; project2_412/VGA_8_12_2022/hit_score_counter.sv                                 ;
+; project2_412/VGA_8_12_2022/hit_score_digit2.sv                                  ;
+; project2_412/VGA_8_12_2022/hit_score_player1.sv                                 ;
+; project2_412/VGA_8_12_2022/key6WasReleased.sv                                   ;
+; project2_412/VGA_8_12_2022/keyPressing_one_sec_counter.sv                       ;
+; project2_412/VGA_8_12_2022/one_sec_counter.sv                                   ;
+; project2_412/VGA_8_12_2022/oppGoal.sv                                           ;
+; project2_412/VGA_8_12_2022/oppPolesMatrixBitMap.sv                              ;
+; project2_412/VGA_8_12_2022/oppSquareBox.sv                                      ;
+; project2_412/VGA_8_12_2022/oppTeamMove.sv                                       ;
+; project2_412/VGA_8_12_2022/oppTeamPoles_bottom.sv                               ;
+; project2_412/VGA_8_12_2022/oppTeamPoles_top.sv                                  ;
+; project2_412/VGA_8_12_2022/oppmatrixbitmap.sv                                   ;
+; project2_412/VGA_8_12_2022/output_files/Chain1.cdf                              ;
+; project2_412/VGA_8_12_2022/output_files/LevelsBitMap.sv                         ;
+; project2_412/VGA_8_12_2022/output_files/TeamMove.sv                             ;
+; project2_412/VGA_8_12_2022/output_files/ballMovement.vwf                        ;
+; project2_412/VGA_8_12_2022/output_files/ourGoal.sv                              ;
+; project2_412/VGA_8_12_2022/output_files/stp2.stp                                ;
+; project2_412/VGA_8_12_2022/scoreWordBitMap.sv                                   ;
+; project2_412/VGA_8_12_2022/scoreWordX.bsf                                       ;
+; project2_412/VGA_8_12_2022/scoreWordX.qip                                       ;
+; project2_412/VGA_8_12_2022/scoreWordX.v                                         ;
+; project2_412/VGA_8_12_2022/scoreWordX_bb.v                                      ;
+; project2_412/VGA_8_12_2022/scoreWordX_syn.v                                     ;
+; project2_412/VGA_8_12_2022/scoreX.bsf                                           ;
+; project2_412/VGA_8_12_2022/scoreX.qip                                           ;
+; project2_412/VGA_8_12_2022/scoreX.v                                             ;
+; project2_412/VGA_8_12_2022/scoreXY.v                                            ;
+; project2_412/VGA_8_12_2022/scoreX_bb.v                                          ;
+; project2_412/VGA_8_12_2022/scoreX_syn.v                                         ;
+; project2_412/VGA_8_12_2022/scoreY.bsf                                           ;
+; project2_412/VGA_8_12_2022/scoreY.qip                                           ;
+; project2_412/VGA_8_12_2022/scoreY.v                                             ;
+; project2_412/VGA_8_12_2022/scoreY_bb.v                                          ;
+; project2_412/VGA_8_12_2022/scoreY_syn.v                                         ;
+; project2_412/VGA_8_12_2022/scoreZ.bsf                                           ;
+; project2_412/VGA_8_12_2022/scoreZ.qip                                           ;
+; project2_412/VGA_8_12_2022/scoreZ.v                                             ;
+; project2_412/VGA_8_12_2022/scoreZ_bb.v                                          ;
+; project2_412/VGA_8_12_2022/scoreZ_syn.v                                         ;
++---------------------------------------------------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
