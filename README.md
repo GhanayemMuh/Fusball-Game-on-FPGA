@@ -11,5 +11,6 @@ Hope you enjoy the game and idea :)
 
 
 <img src="https://github.com/GhanayemMuh/Fusball-Game-on-FPGA/assets/125828484/073a5899-6e5e-48b4-a69d-897ef6c9c67a" width="50%" height="50%">
+<img src="https://github.com/GhanayemMuh/Fusball-Game-on-FPGA/assets/125828484/b3251519-68aa-4ecc-b7ce-f2986696db7b" width="50%" height="50%">
+<img src="https://github.com/GhanayemMuh/Fusball-Game-on-FPGA/assets/125828484/1d05f6b6-baf6-45f8-9049-b67c5ff72ae3" width="50%" height="50%">
 
-![Fusball2](https://github.com/GhanayemMuh/Fusball-Game-on-FPGA/assets/125828484/b3251519-68aa-4ecc-b7ce-f2986696db7b)
